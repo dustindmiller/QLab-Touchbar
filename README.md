@@ -4,6 +4,8 @@ Touchbar Preset for BetterTouchTool
 Hello there!
 The process is deceptively simple when looked at in its broad sense, but I'm available for any and all questions you may have while trying to get things up and running.
 
+For more information on the look & feel of the Touchbar, jump over to my [blog post](https://www.dustindmiller.design/post/qlab-4-now-with-touch-bar).
+
 ## BetterTouchTool Import
 
 First, jump online and download [BetterTouchTool](https://folivora.ai/). Purchasing the full version of the app is always best when utilizing it's services to the extent this preset does, but the free version should do for our needs.
